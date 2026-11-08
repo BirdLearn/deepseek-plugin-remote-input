@@ -1,0 +1,5 @@
+- insert:
+    - id: remote-input
+      name: 'dsh-remote-input'
+      config:
+        port: 8765
